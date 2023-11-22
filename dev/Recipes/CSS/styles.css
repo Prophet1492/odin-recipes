@@ -1,0 +1,18 @@
+.ingredient-section {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.nutrition ul {
+    list-style-type: none;
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+.nutrition li {
+    width: calc(33.33% - 20px); /* 33.33% width with a little space between items */
+    display: inline-block;
+    box-sizing: border-box; /* Include padding and border in the total width */
+    margin: 10px; /* Adjust as needed for spacing */
+}
