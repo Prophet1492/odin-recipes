@@ -32,7 +32,11 @@
 - Bold class to each li in ingredients
 - Ingredients added to chicken marsala
 - Steps added to chicken marsala
-
+- New html file for buffalo chicken ring
+- Description of buffalo chicken ring
+- Link to the buffalo chicken ring to Odin recipes
+- Ingredients to buffalo chicken ring
+- Steps for bufflo chicken
 ### Changed
 - Image of chicken marsala
 
