@@ -12,3 +12,28 @@
 ### Changed
 - Reorganized what directory my files are in
 ### Fixed
+
+## v1.1.1 2023-11-23
+
+### Added
+- New index for chicken marsala
+
+### Changed
+
+### Fixed
+
+## v1.2.1 2023-11-24
+
+### Added
+- An image to Chicken Marsala
+- Link to main odin recipes page
+- Link to css for chicken marsala
+- New CSS class for bold
+- Bold class to each li in ingredients
+- Ingredients added to chicken marsala
+- Steps added to chicken marsala
+
+### Changed
+- Image of chicken marsala
+
+### Fixed

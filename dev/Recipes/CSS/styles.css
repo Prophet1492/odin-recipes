@@ -16,3 +16,25 @@
     box-sizing: border-box; /* Include padding and border in the total width */
     margin: 10px; /* Adjust as needed for spacing */
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
